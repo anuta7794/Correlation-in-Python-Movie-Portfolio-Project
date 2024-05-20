@@ -2,7 +2,7 @@
 
 This project focuses on finding the highest correlations in movie industry based on the dataset "Movie Industry" retrieved from (https://www.kaggle.com/datasets/danielgrijalvas/movies). These correlations describe relationships between variables such as movie *budget*, *gross earnings*, *rating*, *score*, and *company*.
 
-### Libraries
+## Libraries:
 
 The Python libraries used are:
 -	**_Pandas_**
@@ -10,7 +10,7 @@ The Python libraries used are:
 -	**_Numpy_**
 -	**_Matplotlib_**
 
-### Steps: 
+## Steps: 
 1) **Importing Packages and Libraries.**
 
 2) **Loading and cleaning the data:**
@@ -48,7 +48,7 @@ This type of correlation only works on numerical data (“numerical features”)
 
 Filtering data using **_unstack_** function allows to find the highest correlation quickly. Another way to easily arrange the data in a meaningful order is using **_sort_values_** function. I included parameter > 0.5 in order to determine pairs with the strongest positive correlation.
 
-### Conclusion:
+## Conclusion:
 *Votes* and *budget* have the highest correlation to *gross earnings*. *Genre*, *rating* and *company* have low correlation to *gross earnings*.
 
 
