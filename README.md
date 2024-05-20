@@ -5,10 +5,10 @@ This project focuses on finding the highest correlations in movie industry based
 ## Libraries
 
 The Python libraries used are:
--	**Pandas**
--	**Seaborn**
--	**Numpy**
--	**Matplotlib**
+-	**_Pandas_**
+-	**_Seaborn_**
+-	**_Numpy_**
+-	**_Matplotlib_**
 
 ## Steps: 
 1) **Importing Packages and Libraries.**
